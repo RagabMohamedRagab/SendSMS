@@ -108,5 +108,11 @@ namespace SendSMSWithTwilio.Controllers {
 ## 8 - Test 
 
 > Swagger :
+
+<img src="Help/SMS.PNG"/>
+
+> Phone :
+
+<img src="Help/WhatsApp Image 2022-12-07 at 9.47.11 PM.jpeg">
  
 
