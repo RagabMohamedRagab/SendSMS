@@ -114,6 +114,10 @@ namespace SendSMSWithTwilio.Controllers {
 > Phone :
 
 <img src="Help/WhatsApp Image 2022-12-07 at 9.47.11 PM.jpeg">
+<ul>
+ <li> <a href="https://www.twilio.com/docs/sms/quickstart/csharp-dotnet-framework">Documentaion....</a></li>
+ <li><a href="https://www.youtube.com/playlist?list=PL62tSREI9C-cFD3wK68WRjK2Rk1c1JepX">Play List..</a></li>
+</ul>
  
- <a href="https://www.twilio.com/docs/sms/quickstart/csharp-dotnet-framework">Documentaion....</a>
+
 
